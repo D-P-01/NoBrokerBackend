@@ -35,4 +35,29 @@ Users can filter properties by city and rent to narrow down their search.
 
 <h2>Result Images</h2>
 
-![Screenshot (608)](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/3d947cbd-1f86-498a-a116-b027e9bde4c0)
+![Screenshot (608)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/49840c68-29d7-4d15-a891-f7f17978a838)
+<h3>SignUp Page</h3>
+
+![Screenshot (609)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/b0fbf791-cf7c-4d4e-a06f-e50c294c220a)
+<h3>Login Page</h3>
+
+![Screenshot (610)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/ead6fa16-be54-41c8-b085-5585151c8dfb)
+<h3>Sellers UI and Navbar Options</h3>
+
+![Screenshot (611)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/cf4b5acd-2d31-461f-a931-812147d25f1e)
+<h3>Posts or properties added</h3>
+
+![Screenshot (612)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/d4016c63-4c4d-45a0-9869-44afbae614f9)
+<h3>Create a Post option of Seller</h3>
+
+![Screenshot (613)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/ec50ac65-fc57-43c0-80f3-44bf68873dc2)
+<h3>Sellers Post where he can see his listed properties</h3>
+
+![Screenshot (614)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/098baf12-3bb4-4647-9cc8-0cea80816fc3)
+<h3>Edit Post Option of Seller where he can make edit in the rent or any other changes</h3>
+
+![Screenshot (615)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/e4645bc4-67f0-463e-8560-a23c94735235)
+<h3>Filter option (User can filter posts according to city,rent etc.)</h3>
+
+![Screenshot (616)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/a4a80175-9e5b-4e86-b90a-33154c06b8a6)
+<h3>Buyers UI</h3>
