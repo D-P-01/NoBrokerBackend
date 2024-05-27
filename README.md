@@ -65,6 +65,16 @@ Users can filter properties by city and rent to narrow down their search.
 
 ![Screenshot (615)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/e4645bc4-67f0-463e-8560-a23c94735235)
 <h3>Filter option (User can filter posts according to city,rent etc.)</h3>
+<hr>
 
 ![Screenshot (616)-1](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/a4a80175-9e5b-4e86-b90a-33154c06b8a6)
 <h3>Buyers UI</h3>
+<hr>
+
+<h1>DEMO</h1>
+
+https://github.com/D-P-01/NoBrokerBackend/assets/148607994/2a4dc92b-9c94-4df2-a35a-73ac2b60074b
+
+
+
+<hr>
