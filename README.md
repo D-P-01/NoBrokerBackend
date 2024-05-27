@@ -19,7 +19,7 @@ Filter Properties: Users can filter property listings by city or rent to find pr
 <h2>Technologies Used</h2>
 <h3>Frontend: React</h3>
 <h3>Backend: Node.js, Express.js</h3>
-<h3>>Database: MongoDB</h3
+<h3>Database: MongoDB</h3>
 
 <h2>How It Works</h2>
 <h3>Registration:</h3>
