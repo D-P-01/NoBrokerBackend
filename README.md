@@ -17,17 +17,17 @@ View Properties: Both buyers and sellers can see all property posts.
 Filter Properties: Users can filter property listings by city or rent to find properties that meet their criteria.
 
 <h2>Technologies Used</h2>
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
+<h3>Frontend: React</h3>
+<h3>Backend: Node.js, Express.js</h3>
+<h3>>Database: MongoDB</h3
 
 <h2>How It Works</h2>
-Registration:
+<h3>Registration:</h3>
 Users register by entering their details including role (buyer or seller).
-Login:
+<h3>Login:</h3>
 Users log in using their email and password.
-Sellers Add Property:
+<h3>Sellers Add Property:</h3>
 Sellers can add new property listings by providing necessary details.
-View and Filter Properties:
+<h3>View and Filter Properties:</h3>
 Both buyers and sellers can view all listed properties.
 Users can filter properties by city and rent to narrow down their search.
