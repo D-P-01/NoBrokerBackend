@@ -31,3 +31,8 @@ Sellers can add new property listings by providing necessary details.
 <h3>View and Filter Properties:</h3>
 Both buyers and sellers can view all listed properties.
 Users can filter properties by city and rent to narrow down their search.
+
+
+<h2>Result Images</h2>
+
+![Screenshot (608)](https://github.com/D-P-01/NoBrokerBackend/assets/148607994/3d947cbd-1f86-498a-a116-b027e9bde4c0)
